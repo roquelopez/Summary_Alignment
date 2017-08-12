@@ -1,4 +1,4 @@
-Summary_Alignment
+Summary Alignment
 =================
 This is an implementation of the Jing's method for summary alignment (more information about it in http://dl.acm.org/citation.cfm?id=312666)
 
